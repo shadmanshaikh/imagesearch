@@ -1,2 +1,2 @@
 # python_apps
-Creating simple solutions using python 
+Python Desktop Application Which do Efficient Image Search using Google Query Search Technique.
